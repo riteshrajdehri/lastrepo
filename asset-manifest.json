@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextUtils-react/static/css/main.31d6cfe0.css",
-    "main.js": "/TextUtils-react/static/js/main.af0fc9fa.js",
-    "static/js/787.28cb0dcd.chunk.js": "/TextUtils-react/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/TextUtils-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/TextUtils-react/index.html",
-    "main.af0fc9fa.js.map": "/TextUtils-react/static/js/main.af0fc9fa.js.map",
-    "787.28cb0dcd.chunk.js.map": "/TextUtils-react/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/lastrepo/static/css/main.31d6cfe0.css",
+    "main.js": "/lastrepo/static/js/main.effa5c6f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/lastrepo/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/lastrepo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lastrepo/index.html",
+    "main.effa5c6f.js.map": "/lastrepo/static/js/main.effa5c6f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/lastrepo/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.af0fc9fa.js"
+    "static/js/main.effa5c6f.js"
   ]
 }
